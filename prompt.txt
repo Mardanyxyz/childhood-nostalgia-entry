@@ -1,0 +1,1 @@
+Write a program that outputs ONE sentence, at most 280 characters, that brings back a childhood memory — a grandmother's kitchen, a summer evening, the smell of fresh rice. The house judge reads lines two at a time and picks the one that stirs the deeper nostalgia.
